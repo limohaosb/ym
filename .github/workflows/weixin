@@ -24,4 +24,4 @@ jobs:
           pip3 install requests
       - name: weixin
         run: |
-          python3 main.py
+          python3 te.py
